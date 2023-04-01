@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-I'm Jake, A .Net Software Developer with a degree in Software Engineering.
+I'm Jake, A .Net Software Developer with a degree in Software Engineering. I current develop point of sale solutions and maintain finance calculations for large automotive manufacturers.
 
 ## 🔧 I’m currently working on
-- A Blazor Server task management application
-- A small utility tool using the PokéApi
+- A companion app for Elden Ring written in Blazor/MAUI Hybrid.
  
 ## 📚 I’m currently learning
 - .Net MAUI
 - Blazor / Blazor Hybrid
 - XAML for WPF
 
-## 🧠 Skills & Experience
+## 🧠 Programming Skills & Experience
 - .Net Framework / .Net Core
 - ORMs (NHibernate & Entity Framework)
-- Asp.Net
+- ASP.Net
+- Blazor
+- Api Development
 - SQL / Postgres
