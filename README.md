@@ -18,3 +18,8 @@ I'm Jake, A .Net Software Developer with a degree in Software Engineering. I cur
 * Unit Testing
     * NUnit
     * Moq
+* Methodologies
+    * Agile
+    * XP
+    * TDD
+    * Pair Programming
