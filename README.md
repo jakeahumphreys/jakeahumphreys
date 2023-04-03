@@ -6,15 +6,12 @@ I'm Jake, A .Net Software Developer with a degree in Software Engineering. I cur
 - A companion app for Elden Ring written in Blazor/MAUI Hybrid using the amazing [Elden Ring API](https://docs.eldenring.fanapis.com/)
 - Slowly developing a productivity, task management and notes app also using Blazor / MAUI
  
-## 📚 I’m currently learning
-- .Net MAUI
-- Blazor / Blazor Hybrid
-- XAML for WPF
-
 ## 🧠 Programming Skills & Experience
-- .Net Framework / .Net Core
-- ORMs (NHibernate & Entity Framework)
-- ASP.Net
-- Blazor
-- Api Development
-- SQL / Postgres
+* .Net Framework / .Net Core
+    * Blazor
+    * ASP.Net
+    * API Development
+* ORMs
+    * NHibernate
+    * Entity Framework (Code First)
+* SQL Server / Postgres
