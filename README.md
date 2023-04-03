@@ -15,3 +15,6 @@ I'm Jake, A .Net Software Developer with a degree in Software Engineering. I cur
     * NHibernate
     * Entity Framework (Code First)
 * SQL Server / Postgres
+* Unit Testing
+    * NUnit
+    * Moq
