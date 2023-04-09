@@ -4,7 +4,8 @@ I'm Jake, A .Net Software Developer with a degree in Software Engineering. I cur
 
 ## 🔧 I’m currently working on
 - A companion app for Elden Ring written in Blazor/MAUI Hybrid using the amazing [Elden Ring API](https://docs.eldenring.fanapis.com/)
-- Slowly developing a productivity, task management and notes app also using Blazor / MAUI
+- A Productivity app that will feature Task Managament, Notes, Timers & More written in Blazor/WPF [Tapp](https://github.com/jakeahumphreys/Tapp)
+- A Simplistic Youtube video downloader / converter written in Blazor/WPF [YtDownloader](https://github.com/jakeahumphreys/YtDownloader)
  
 ## 🧠 Programming Skills & Experience
 * .Net Framework / .Net Core
