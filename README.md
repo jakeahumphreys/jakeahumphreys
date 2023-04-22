@@ -14,6 +14,7 @@ I'm Jake, A .Net Software Developer with a degree in Software Engineering. I cur
     * Blazor
     * ASP.Net
     * API Development
+    * WPF
 * ORMs
     * NHibernate
     * Entity Framework (Code First)
