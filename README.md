@@ -9,7 +9,7 @@ I'm Jake, A .Net Software Developer with a degree in Software Engineering. I cur
 - [MClock](https://github.com/jakeahumphreys/MClock), a continuation of a work day utility created by a colleague
 
 ## Looking for some photino Templates?
-I use Photino *a lot* and usually with MudBlazor. Rather than constantly recreating the same boilerplate every time I spin up a new project, I've created some templates. Find them [here](https://github.com/jakeahumphreys/templates)
+I use Photino *a lot* and usually with MudBlazor. Rather than constantly recreating the same boilerplate every time I spin up a new project, I've created some templates. Find them [here](https://www.nuget.org/packages/JTemplates)
  
 ## 🧠 Programming Skills & Experience
 * .Net Framework / .Net Core
